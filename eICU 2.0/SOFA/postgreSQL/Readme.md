@@ -1,4 +1,4 @@
-# eICU-SOFA
+# eICU-SOFA for postgreSQL
 The SQL query of calculating hourly sofa score in eICU database: https://eicu-crd.mit.edu/, originally from Xiaoli Liu.
 Modified to make it work with postgreSQL. 
 ### Quickstart
