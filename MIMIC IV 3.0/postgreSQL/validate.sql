@@ -1,5 +1,6 @@
--- Validate the MIMIC-IV tables built correctly by checking against known row counts
--- of MIMIC-IV v2.2
+-- Validate the MIMIC-IV tables built correctly by checking against known row counts of MIMIC-IV v3.0
+-- Included derivative tables created by MIT-LCP/mimic-code
+-- https://github.com/MIT-LCP/mimic-code
 WITH expected AS
 (
     -- hosp data
